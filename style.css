@@ -63,7 +63,8 @@ ul a:hover {
     border-radius:2px ;
     color: #FFFFFF;
     cursor: pointer;
-    font-weight: 700;        
+    font-weight: 700;
+    margin-left: 5px;        
 }
 
 .header__right--button:hover{
@@ -127,6 +128,7 @@ ul a:hover {
 .main__button--right{
     height: 36px;
     border: none;
+    border: 1px solid #efefef;
     background-color: #efefef;
     border-radius: 4px;
     padding: 1px 6px;
