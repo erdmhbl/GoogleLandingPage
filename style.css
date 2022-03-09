@@ -150,7 +150,30 @@ ul a:hover {
     color: #000080;
 }
 
+.footer{
+    position: fixed;
+    bottom: 0px;
+    background-color: #f2f2f2;
+    color: #5f6368;
+    line-height:40px;
+    width: 100%;
+    padding: 0px 0px 0px 5px;
+    display: block;
+}
 
+.footer__country{
+    padding-left: 20px;
+    border-bottom: 1px solid #E4E4E4;
+}
+
+.footer__bottom--left{
+    float: left;
+    padding-left: 10px;
+
+}
+.footer__bottom--right{
+    float: right;
+}
 
 
 
